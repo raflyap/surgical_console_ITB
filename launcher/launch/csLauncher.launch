@@ -1,0 +1,9 @@
+<launch>
+ 
+	<include file ="$(find sensor_handler)/launch/sensor.launch" />
+	<include file ="$(find data_handler)/launch/data_handler.launch" />
+	<include file ="$(find socket_handler)/launch/socket.launch"/>
+
+   
+
+</launch>

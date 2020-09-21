@@ -1,0 +1,11 @@
+<launch>
+
+
+	<include file="$(find rosserial_python)/launch/arduino_launch.launch" />  
+	<include file ="$(find sensor_handler)/launch/sensor.launch" />
+	<include file="$(find signal_condition)/launch/scLaunch.launch" />  
+	<include file ="$(find socket_handler)/launch/socket.launch"/>
+	<include file= "$(find fk_solver)/launch/fkLaunch.launch"/>
+	<include file="$(find profile_handler)/launch/profile.launch" />
+
+</launch>
