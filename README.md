@@ -1,7 +1,8 @@
 # surgical_console_ITB
 
 Repository for Surgical Console Capstone Design in Electrical Engineering Department of Institut Teknologi Bandung.
-The development repo can be found at: code lama di: https://github.com/raflyap/master_console
+
+The development repo can be found at: https://github.com/raflyap/master_console
 
 
 Each folder represents the package in ROS Framework. So, you need to install ROS to implement the programs.
