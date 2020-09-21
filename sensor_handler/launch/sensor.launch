@@ -1,0 +1,18 @@
+<launch>
+    <node pkg="sensor_handler" type="sensor_node_r" name="sensor_node_r"/>
+    <node pkg="sensor_handler" type="sensor_node_l" name="sensor_node_l"/>
+    <node pkg="sensor_handler" type="fk_node_r" name="fk_node_r"/>
+    <node pkg="sensor_handler" type="fk_node_l" name="fk_node_l"/>
+    <node pkg="sensor_handler" type="enc_calibrator" name="sensor_calibrator"/>
+    <node pkg="sensor_handler" type="gripper_calibrator_r.py" name="R_grip_Calib"/>
+    <node pkg="sensor_handler" type="gripper_calibrator_l.py" name="L_grip_Calib"/>
+    <node name="encoder_node_0"  pkg="rosserial_python"    type="serial_node.py" respawn ="true">
+	    <param name="port"              type="string"               value="/dev/ttyUSB0"/>
+	    <param name="baud"              type="int"                  value="57600"/>
+     </node>
+     <node name="encoder_node_1"  pkg="rosserial_python"    type="serial_node.py" respawn ="true">
+	    <param name="port"              type="string"               value="/dev/ttyUSB1"/>
+	    <param name="baud"              type="int"                  value="57600"/>
+     </node> 
+        
+</launch>

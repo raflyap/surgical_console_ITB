@@ -1,0 +1,2 @@
+uint16 open_limit
+uint16 close_limit
