@@ -1,0 +1,12 @@
+<launch>
+    <node pkg="data_handler" name="profile_handle" type="profile_handler_node.py" />
+    <node pkg="data_handler" type="sig_cond_l" name="sig_cond_nodeL"/>  
+    <node pkg="data_handler" type="sig_cond_r" name="sig_cond_nodeR"/>
+    <node pkg="data_handler" type="data_logger" name="data_logger"/>
+    <node name="UI_node"  pkg="rosserial_python"    type="serial_node.py" respawn ="true">
+	    <param name="port"              type="string"               value="/dev/ttyACM0"/>
+	    <param name="baud"              type="int"                  value="57600"/>
+    </node> 
+
+
+</launch>

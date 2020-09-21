@@ -1,0 +1,903 @@
+02-09-2020 15:16:31
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 1 2 3 4 5 6 7 
+<---------------------------------------------<
+02-09-2020 15:17:00
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 3 4 5 6 7 
+<---------------------------------------------<
+02-09-2020 15:18:57
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 3 4 5 6 7 
+<---------------------------------------------<
+02-09-2020 15:19:41
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 5 6 7 
+<---------------------------------------------<
+02-09-2020 15:20:10
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 6 7 
+<---------------------------------------------<
+02-09-2020 15:21:16
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 7 
+<---------------------------------------------<
+02-09-2020 15:22:32
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 1 2 3 4 5 6 7 
+<---------------------------------------------<
+02-09-2020 15:25:52
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 3 4 5 6 7 
+<---------------------------------------------<
+02-09-2020 15:37:58
+SENSOR L : List of this left encoder is not readable:
+ Left Encoder : 1 2 3 4 5 6 7 
+<---------------------------------------------<
+02-09-2020 15:40:43
+SENSOR L : List of this left encoder is not readable:
+ Left Encoder : 1 2 3 4 5 6 7 
+<---------------------------------------------<
+02-09-2020 17:36:54
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:36:54
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:44:58
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:44:58
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:48:35
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:48:35
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:54:43
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:54:43
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:56:31
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:56:31
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:57:28
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:57:28
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 17:57:55
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 17:58:05
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 17:58:28
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:03:05
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:03:05
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:05:10
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:05:10
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:07:51
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:07:51
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:10:16
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:10:16
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:12:17
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:12:26
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:12:36
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:13:05
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:13:11
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:13:16
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:13:27
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:13:38
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:13:45
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:15:32
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:15:32
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:26:16
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:26:16
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:33:46
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:33:46
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:36:24
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:36:24
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:44:36
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:44:36
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:45:36
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:45:41
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:45:46
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:45:55
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:46:00
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:46:08
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:46:13
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:46:18
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:46:28
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:46:33
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:47:39
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:47:39
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:48:13
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:48:27
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:48:33
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:49:21
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:49:21
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+02-09-2020 18:49:46
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:49:55
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:50:06
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:50:12
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:50:17
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:50:24
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:50:31
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:50:46
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:50:57
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:51:03
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:51:18
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:51:23
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:51:29
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:52:39
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:52:47
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:52:56
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:55:16
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 18:59:00
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 19:00:54
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 19:00:59
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 19:01:25
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 19:01:41
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+02-09-2020 19:42:33
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+02-09-2020 19:42:33
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+03-09-2020 17:05:07
+SENSOR L : List of this left encoder is not readable:
+ Left Encoder : 1 2 3 4 5 6 7 
+<---------------------------------------------<
+03-09-2020 17:07:40
+SENSOR L : List of this left encoder is not readable:
+ Left Encoder : 3 4 5 6 7 
+<---------------------------------------------<
+03-09-2020 17:08:33
+SENSOR L : List of this left encoder is not readable:
+ Left Encoder : 2 3 4 5 6 7 
+<---------------------------------------------<
+03-09-2020 17:44:49
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+03-09-2020 17:50:20
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:50:32
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:50:37
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:50:44
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:51:41
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:51:46
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:51:55
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:52:08
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:52:13
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:52:28
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:52:35
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:52:42
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:52:47
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:53:00
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:56:37
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:56:46
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:57:03
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:57:18
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:57:24
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:57:29
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:57:34
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:58:25
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:59:43
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 17:59:50
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:00:33
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:00:38
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:00:46
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:00:52
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:01:06
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:01:50
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:04:16
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:04:21
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:04:50
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:05:24
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:05:29
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:06:48
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:06:57
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:07:04
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:07:19
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:07:26
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:07:34
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:07:39
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:11:04
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:11:09
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:11:21
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:11:26
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:11:36
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:11:47
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:11:58
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:12:11
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:12:17
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:12:22
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:12:27
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:12:33
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:12:38
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:12:43
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:02
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:09
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:25
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:31
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:37
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:45
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:50
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:13:55
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:01
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:06
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:12
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:20
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:28
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:36
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:48
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:14:58
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:15:07
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:15:14
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:15:25
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:15:32
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:15:43
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:15:49
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:16:03
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:17:09
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:17:40
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:18:01
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+03-09-2020 18:18:07
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 14:25:45
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+04-09-2020 14:25:45
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 6 7 
+<---------------------------------------------<
+04-09-2020 14:37:38
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+04-09-2020 14:37:39
+SENSOR R : List of this right encoder is not readable:
+ Right Encoder : 6 7 
+<---------------------------------------------<
+04-09-2020 14:39:32
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+04-09-2020 15:17:05
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:17:07
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:17:12
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:17:24
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:17:29
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:17:38
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:44:21
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:44:22
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 15:50:07
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+04-09-2020 15:50:07
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+04-09-2020 15:57:13
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+04-09-2020 15:57:13
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+04-09-2020 16:00:45
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:00:50
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:00:55
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:00:56
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:01:41
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:02:34
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:02:39
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:04:20
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:08:53
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:08:58
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:13:10
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:13:18
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:13:24
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:13:35
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:13:41
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:14:19
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:14:26
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:14:34
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:15:05
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:15:18
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:15:24
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:15:43
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:15:53
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:16:00
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:16:09
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:21:59
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:22:04
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:22:09
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:22:09
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:22:37
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:22:50
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:22:57
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:23:05
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:23:10
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:23:15
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:28:48
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+04-09-2020 16:28:48
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+04-09-2020 16:30:17
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:30:25
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:30:41
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:04
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:26
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:27
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:33
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:40
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:48
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:48
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:56
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:31:56
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:01
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:01
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:06
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:08
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:11
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:18
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:49
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:32:54
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:33:14
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:33:15
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:33:19
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 16:33:24
+ACTUATOR R : Right hand actuator is collided with another object/s
+<---------------------------------------------<
+04-09-2020 18:14:18
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+04-09-2020 18:14:18
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+04-09-2020 18:16:58
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+04-09-2020 18:16:58
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:28:01
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:28:01
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:29:30
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:29:30
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:33:05
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:33:29
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:33:39
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:34:17
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:35:45
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:42:32
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:42:32
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:44:02
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 12:45:02
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 12:47:03
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 12:47:03
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+15-09-2020 13:31:12
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:38:48
+SOCKET R : Right hand server is not reachable
+<---------------------------------------------<
+15-09-2020 13:38:48
+SOCKET L : Left hand server is not reachable
+<---------------------------------------------<
+15-09-2020 13:39:00
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:39:41
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:39:48
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:39:53
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:40:01
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:40:06
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:40:28
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:42:10
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:42:40
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:42:48
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:42:59
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:43:06
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:43:42
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:44:43
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:44:50
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
+15-09-2020 13:47:29
+ACTUATOR L : Left hand actuator is collided with another object/s
+<---------------------------------------------<
