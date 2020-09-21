@@ -1,0 +1,36 @@
+  2 Aug  2020:
+    1. Debug by testing with HW and rosrun
+    2. Encoder status is integer now
+  30 July 2020:
+    1. LCD display fixing
+  29 July 2020:
+    1. Skinning
+    2. Add encoder DC warning display. Added subscriber and callback for encoder status (String data Types)
+  27 July 2020:
+    1. Removed FSR reading
+    2. Rearrange all pins connections.
+    3. Added blinker
+    4. Change lcd library to non i2c
+    5. selPin becomes active HIGH
+  23 July 2020:
+    1. Power publishing fixed
+    2. Add idle in menu handling.(point 2 of 22 July 2020 update)
+    3. Idle time in sub menu is unstable, and can improve lcd refresh. Data published has too many significant numbers.
+  22 July 2020:
+    1. Start stop pedal now is printed as stats on main menu
+    2. When submenu is entered and idle for several seconds, return to main menu.(incomplete)
+    3. To go to main menu, user must first press the selector.
+  21 July 2020:
+    1. Finalisation of Code Contents (Node features)
+    2. Will wait for feature updates
+  20 July 2020:
+    1. Calibration publisher behavior updated.
+    2. Menu refresh updated.
+    3. power off and reset is integrated in the menu
+    4. publish rate achieved 300 hz mark.
+    5. Message passed updated.
+  OLD:
+    1. Used custom message for multiplier, forceR,L, power.
+    2. Power now always publish 0 or 1, should implement change in powercallback in SC.
+    3. Change methods in SubscribeAndPublish in SC.
+
