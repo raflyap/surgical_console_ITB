@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="socket_handler" name="clientL" type="client_L.py" output="screen" />
+    <node pkg="socket_handler" name="clientR" type="client_R.py" output="screen" />
+    <node pkg="socket_handler" name="generatorL" type="generator_L.py"/>
+    <node pkg="socket_handler" name="generatorR" type="generator_R.py"/>
+</launch>

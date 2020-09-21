@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="socket_handler" name="clientL" type="client_L.py" output="screen" />
+    <node pkg="socket_handler" name="clientR" type="client_R.py" output="screen" />
+</launch>
